@@ -1,0 +1,139 @@
+hemant@hemant-HP:~/Desktop/DeeperNLP$ python zoo_cluster.py 
+[t-SNE] Computing pairwise distances...
+[t-SNE] Computing 91 nearest neighbors...
+[t-SNE] Computed conditional probabilities for sample 97 / 97
+[t-SNE] Mean sigma: 34.653983
+[t-SNE] Iteration 25: error = 2.3667476, gradient norm = 0.2909208
+[t-SNE] Iteration 50: error = 2.0369456, gradient norm = 0.0017479
+[t-SNE] Iteration 75: error = 1.9177500, gradient norm = 0.0011642
+[t-SNE] Iteration 100: error = 1.8816255, gradient norm = 0.0011358
+[t-SNE] Error after 100 iterations with early exaggeration: 1.881626
+[t-SNE] Iteration 125: error = 1.8069035, gradient norm = 0.0010522
+[t-SNE] Iteration 150: error = 1.7794362, gradient norm = 0.0009469
+[t-SNE] Iteration 150: gradient norm 0.000947. Finished.
+[t-SNE] Error after 150 iterations: 1.779436
+[t-SNE] Computing pairwise distances...
+[t-SNE] Computing 91 nearest neighbors...
+[t-SNE] Computed conditional probabilities for sample 97 / 97
+[t-SNE] Mean sigma: 26.231294
+[t-SNE] Iteration 25: error = 2.2346966, gradient norm = 0.0944629
+[t-SNE] Iteration 50: error = 2.0124123, gradient norm = 0.0020202
+[t-SNE] Iteration 75: error = 1.8787448, gradient norm = 0.0011915
+[t-SNE] Iteration 100: error = 1.8430107, gradient norm = 0.0011051
+[t-SNE] Error after 100 iterations with early exaggeration: 1.843011
+[t-SNE] Iteration 125: error = 1.7761642, gradient norm = 0.0009612
+[t-SNE] Iteration 125: gradient norm 0.000961. Finished.
+[t-SNE] Error after 125 iterations: 1.776164
+[t-SNE] Computing pairwise distances...
+[t-SNE] Computing 91 nearest neighbors...
+[t-SNE] Computed conditional probabilities for sample 97 / 97
+[t-SNE] Mean sigma: 16.935263
+[t-SNE] Iteration 25: error = 1.7642895, gradient norm = 0.0369200
+[t-SNE] Iteration 50: error = 1.6113774, gradient norm = 0.0020119
+[t-SNE] Iteration 75: error = 1.4258739, gradient norm = 0.0016174
+[t-SNE] Iteration 100: error = 1.3537450, gradient norm = 0.0014697
+[t-SNE] Error after 100 iterations with early exaggeration: 1.353745
+[t-SNE] Iteration 125: error = 1.2542528, gradient norm = 0.0011662
+[t-SNE] Iteration 150: error = 1.2158489, gradient norm = 0.0011406
+[t-SNE] Iteration 175: error = 1.2046806, gradient norm = 0.0011727
+[t-SNE] Iteration 200: error = 1.2014023, gradient norm = 0.0011805
+[t-SNE] Iteration 225: error = 1.2004243, gradient norm = 0.0011823
+[t-SNE] Iteration 250: error = 1.2001579, gradient norm = 0.0011828
+[t-SNE] Iteration 275: error = 1.2000858, gradient norm = 0.0011829
+[t-SNE] Iteration 300: error = 1.2000651, gradient norm = 0.0011830
+[t-SNE] Iteration 325: error = 1.2000592, gradient norm = 0.0011830
+[t-SNE] Iteration 350: error = 1.2000567, gradient norm = 0.0011830
+[t-SNE] Iteration 350: error difference 0.000000. Finished.
+[t-SNE] Error after 350 iterations: 1.200057
+[t-SNE] Computing pairwise distances...
+[t-SNE] Computing 91 nearest neighbors...
+[t-SNE] Computed conditional probabilities for sample 97 / 97
+[t-SNE] Mean sigma: 67.195537
+[t-SNE] Iteration 25: error = 1.9107882, gradient norm = 0.0028346
+[t-SNE] Iteration 50: error = 1.7703166, gradient norm = 0.0019934
+[t-SNE] Iteration 75: error = 1.6340015, gradient norm = 0.0011841
+[t-SNE] Iteration 100: error = 1.5914210, gradient norm = 0.0011600
+[t-SNE] Error after 100 iterations with early exaggeration: 1.591421
+[t-SNE] Iteration 125: error = 1.5289588, gradient norm = 0.0010290
+[t-SNE] Iteration 150: error = 1.4970490, gradient norm = 0.0010405
+[t-SNE] Iteration 175: error = 1.4869051, gradient norm = 0.0010700
+[t-SNE] Iteration 200: error = 1.4838376, gradient norm = 0.0010954
+[t-SNE] Iteration 225: error = 1.4829466, gradient norm = 0.0011076
+[t-SNE] Iteration 250: error = 1.4826849, gradient norm = 0.0011106
+[t-SNE] Iteration 275: error = 1.4826089, gradient norm = 0.0011115
+[t-SNE] Iteration 300: error = 1.4825912, gradient norm = 0.0011118
+[t-SNE] Iteration 325: error = 1.4825848, gradient norm = 0.0011118
+[t-SNE] Iteration 350: error = 1.4825839, gradient norm = 0.0011119
+[t-SNE] Iteration 375: error = 1.4825829, gradient norm = 0.0011119
+[t-SNE] Iteration 375: error difference 0.000000. Finished.
+[t-SNE] Error after 375 iterations: 1.482583
+[t-SNE] Computing pairwise distances...
+[t-SNE] Computing 91 nearest neighbors...
+[t-SNE] Computed conditional probabilities for sample 97 / 97
+[t-SNE] Mean sigma: 515.655529
+[t-SNE] Iteration 25: error = 2.0867686, gradient norm = 0.1913605
+[t-SNE] Iteration 50: error = 1.8506054, gradient norm = 0.0021348
+[t-SNE] Iteration 75: error = 1.6860094, gradient norm = 0.0015595
+[t-SNE] Iteration 100: error = 1.6355308, gradient norm = 0.0011982
+[t-SNE] Error after 100 iterations with early exaggeration: 1.635531
+[t-SNE] Iteration 125: error = 1.5632081, gradient norm = 0.0009781
+[t-SNE] Iteration 125: gradient norm 0.000978. Finished.
+[t-SNE] Error after 125 iterations: 1.563208
+[t-SNE] Computing pairwise distances...
+[t-SNE] Computing 91 nearest neighbors...
+[t-SNE] Computed conditional probabilities for sample 97 / 97
+[t-SNE] Mean sigma: 252.933044
+[t-SNE] Iteration 25: error = 1.9945513, gradient norm = 0.0217263
+[t-SNE] Iteration 50: error = 1.7887404, gradient norm = 0.0019465
+[t-SNE] Iteration 75: error = 1.6388503, gradient norm = 0.0013285
+[t-SNE] Iteration 100: error = 1.6023415, gradient norm = 0.0011888
+[t-SNE] Error after 100 iterations with early exaggeration: 1.602342
+[t-SNE] Iteration 125: error = 1.5353203, gradient norm = 0.0011291
+[t-SNE] Iteration 150: error = 1.5070627, gradient norm = 0.0011132
+[t-SNE] Iteration 175: error = 1.4985708, gradient norm = 0.0011246
+[t-SNE] Iteration 200: error = 1.4962950, gradient norm = 0.0011288
+[t-SNE] Iteration 225: error = 1.4956287, gradient norm = 0.0011301
+[t-SNE] Iteration 250: error = 1.4954405, gradient norm = 0.0011304
+[t-SNE] Iteration 275: error = 1.4953907, gradient norm = 0.0011305
+[t-SNE] Iteration 300: error = 1.4953769, gradient norm = 0.0011306
+[t-SNE] Iteration 325: error = 1.4953725, gradient norm = 0.0011306
+[t-SNE] Iteration 350: error = 1.4953716, gradient norm = 0.0011306
+[t-SNE] Iteration 350: error difference 0.000000. Finished.
+[t-SNE] Error after 350 iterations: 1.495372
+[t-SNE] Computing pairwise distances...
+[t-SNE] Computing 91 nearest neighbors...
+[t-SNE] Computed conditional probabilities for sample 97 / 97
+[t-SNE] Mean sigma: 16.577633
+[t-SNE] Iteration 25: error = 1.8887630, gradient norm = 0.0030293
+[t-SNE] Iteration 50: error = 1.7735221, gradient norm = 0.0017950
+[t-SNE] Iteration 75: error = 1.6422278, gradient norm = 0.0011876
+[t-SNE] Iteration 100: error = 1.6071712, gradient norm = 0.0010861
+[t-SNE] Error after 100 iterations with early exaggeration: 1.607171
+[t-SNE] Iteration 125: error = 1.5474725, gradient norm = 0.0009142
+[t-SNE] Iteration 125: gradient norm 0.000914. Finished.
+[t-SNE] Error after 125 iterations: 1.547472
+[t-SNE] Computing pairwise distances...
+[t-SNE] Computing 91 nearest neighbors...
+[t-SNE] Computed conditional probabilities for sample 97 / 97
+[t-SNE] Mean sigma: 85.794956
+[t-SNE] Iteration 25: error = 2.1669745, gradient norm = 0.2206632
+[t-SNE] Iteration 50: error = 1.9383790, gradient norm = 0.0017462
+[t-SNE] Iteration 75: error = 1.8334637, gradient norm = 0.0011383
+[t-SNE] Iteration 100: error = 1.8004901, gradient norm = 0.0010495
+[t-SNE] Error after 100 iterations with early exaggeration: 1.800490
+[t-SNE] Iteration 125: error = 1.7373738, gradient norm = 0.0009535
+[t-SNE] Iteration 125: gradient norm 0.000954. Finished.
+[t-SNE] Error after 125 iterations: 1.737374
+[t-SNE] Computing pairwise distances...
+[t-SNE] Computing 91 nearest neighbors...
+[t-SNE] Computed conditional probabilities for sample 97 / 97
+[t-SNE] Mean sigma: 455.485953
+[t-SNE] Iteration 25: error = 2.0891321, gradient norm = 0.0411140
+[t-SNE] Iteration 50: error = 1.8844028, gradient norm = 0.0019734
+[t-SNE] Iteration 75: error = 1.7460868, gradient norm = 0.0011274
+[t-SNE] Iteration 100: error = 1.7095448, gradient norm = 0.0010906
+[t-SNE] Error after 100 iterations with early exaggeration: 1.709545
+[t-SNE] Iteration 125: error = 1.6465729, gradient norm = 0.0009146
+[t-SNE] Iteration 125: gradient norm 0.000915. Finished.
+[t-SNE] Error after 125 iterations: 1.646573
+
