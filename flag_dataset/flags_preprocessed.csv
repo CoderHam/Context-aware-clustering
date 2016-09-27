@@ -1,0 +1,195 @@
+,name,landmass,zone,area,population,language,religion,bars,stripes,colours,red,green,blue,gold,white,black,orange,mainhue,circles,crosses,saltires,quarters,sunstars,crescent,triangle,icon,animate,text,topleft,botright
+0,Afghanistan,Asia,NE,648,16,Others,Muslim,0,3,5,red,green,,gold,white,black,,green,0,0,0,0,1,0,0,1,0,0,black,green
+1,Albania,Europe,NE,29,3,Other Indo-European,Marxist,0,0,3,red,,,gold,,black,,red,0,0,0,0,1,0,0,0,1,0,red,red
+2,Algeria,Africa,NE,2388,20,Arabic,Muslim,2,0,3,red,green,,,white,,,green,0,0,0,0,1,1,0,0,0,0,green,white
+3,American-Samoa,Oceania,SW,0,0,English,Other Christian,0,0,5,red,,blue,gold,white,,orange,blue,0,0,0,0,0,0,1,1,1,0,blue,red
+4,Andorra,Europe,NE,0,0,Other Indo-European,Catholic,3,0,3,red,,blue,gold,,,,gold,0,0,0,0,0,0,0,0,0,0,blue,red
+5,Angola,Africa,SE,1247,7,Others,Ethnic,0,2,3,red,,,gold,,black,,red,0,0,0,0,1,0,0,1,0,0,red,black
+6,Anguilla,N.America,NW,0,0,English,Other Christian,0,1,3,,,blue,,white,,orange,white,0,0,0,0,0,0,0,0,1,0,white,blue
+7,Antigua-Barbuda,N.America,NW,0,0,English,Other Christian,0,1,5,red,,blue,gold,white,black,,red,0,0,0,0,1,0,1,0,0,0,black,red
+8,Argentina,S.America,SW,2777,28,Spanish,Catholic,0,3,2,,,blue,,white,,,blue,0,0,0,0,0,0,0,0,0,0,blue,blue
+9,Argentine,S.America,SW,2777,28,Spanish,Catholic,0,3,3,,,blue,gold,white,,,blue,0,0,0,0,1,0,0,0,0,0,blue,blue
+10,Australia,Oceania,SE,7690,15,English,Other Christian,0,0,3,red,,blue,,white,,,blue,0,1,1,1,6,0,0,0,0,0,white,blue
+11,Austria,Europe,NE,84,8,German,Catholic,0,3,2,red,,,,white,,,red,0,0,0,0,0,0,0,0,0,0,red,red
+12,Bahamas,N.America,NW,19,0,English,Other Christian,0,3,3,,,blue,gold,,black,,blue,0,0,0,0,0,0,1,0,0,0,blue,blue
+13,Bahrain,Asia,NE,1,0,Arabic,Muslim,0,0,2,red,,,,white,,,red,0,0,0,0,0,0,0,0,0,0,white,red
+14,Bangladesh,Asia,NE,143,90,Other Indo-European,Muslim,0,0,2,red,green,,,,,,green,1,0,0,0,0,0,0,0,0,0,green,green
+15,Barbados,N.America,NW,0,0,English,Other Christian,3,0,3,,,blue,gold,,black,,blue,0,0,0,0,0,0,0,1,0,0,blue,blue
+16,Belgium,Europe,NE,31,10,Other Indo-European,Catholic,3,0,3,red,,,gold,,black,,gold,0,0,0,0,0,0,0,0,0,0,black,red
+17,Belize,N.America,NW,23,0,English,Other Christian,0,2,8,red,green,blue,gold,white,black,orange,blue,1,0,0,0,0,0,0,1,1,1,red,red
+18,Benin,Africa,NE,113,3,French,Ethnic,0,0,2,red,green,,,,,,green,0,0,0,0,1,0,0,0,0,0,green,green
+19,Bermuda,N.America,NW,0,0,English,Other Christian,0,0,6,red,green,blue,gold,white,black,,red,1,1,1,1,0,0,0,1,1,0,white,red
+20,Bhutan,Asia,NE,47,1,Others,Buddhist,0,0,4,red,,,,white,black,orange,orange,4,0,0,0,0,0,0,0,1,0,orange,red
+21,Bolivia,S.America,SW,1099,6,Spanish,Catholic,0,3,3,red,green,,gold,,,,red,0,0,0,0,0,0,0,0,0,0,red,green
+22,Botswana,Africa,SE,600,1,Others,Ethnic,0,5,3,,,blue,,white,black,,blue,0,0,0,0,0,0,0,0,0,0,blue,blue
+23,Brazil,S.America,SW,8512,119,Other Indo-European,Catholic,0,0,4,,green,blue,gold,white,,,green,1,0,0,0,22,0,0,0,0,1,green,green
+24,British-Virgin-Isles,N.America,NW,0,0,English,Other Christian,0,0,6,red,green,blue,gold,white,,orange,blue,0,1,1,1,0,0,0,1,1,1,white,blue
+25,Brunei,Asia,NE,6,0,Others,Muslim,0,0,4,red,,,gold,white,black,,gold,0,0,0,0,0,0,1,1,1,1,white,gold
+26,Bulgaria,Europe,NE,111,9,Slavic,Marxist,0,3,5,red,green,blue,gold,white,,,red,0,0,0,0,1,0,0,1,1,0,white,red
+27,Burkina,Africa,NW,274,7,French,Ethnic,0,2,3,red,green,,gold,,,,red,0,0,0,0,1,0,0,0,0,0,red,green
+28,Burma,Asia,NE,678,35,Others,Buddhist,0,0,3,red,,blue,,white,,,red,0,0,0,1,14,0,0,1,1,0,blue,red
+29,Burundi,Africa,SE,28,4,Others,Ethnic,0,0,3,red,green,,,white,,,red,1,0,1,0,3,0,0,0,0,0,white,white
+30,Cameroon,Africa,NE,474,8,French,Other Christian,3,0,3,red,green,,gold,,,,gold,0,0,0,0,1,0,0,0,0,0,green,gold
+31,Canada,N.America,NW,9976,24,English,Other Christian,2,0,2,red,,,,white,,,red,0,0,0,0,0,0,0,0,1,0,red,red
+32,Cape-Verde-Islands,Africa,NW,4,0,Other Indo-European,Catholic,1,2,5,red,green,,gold,,black,orange,gold,0,0,0,0,1,0,0,0,1,0,red,green
+33,Cayman-Islands,N.America,NW,0,0,English,Other Christian,0,0,6,red,green,blue,gold,white,,orange,blue,1,1,1,1,4,0,0,1,1,1,white,blue
+34,Central-African-Republic,Africa,NE,623,2,Others,Ethnic,1,0,5,red,green,blue,gold,white,,,gold,0,0,0,0,1,0,0,0,0,0,blue,gold
+35,Chad,Africa,NE,1284,4,French,Ethnic,3,0,3,red,,blue,gold,,,,gold,0,0,0,0,0,0,0,0,0,0,blue,red
+36,Chile,S.America,SW,757,11,Spanish,Catholic,0,2,3,red,,blue,,white,,,red,0,0,0,1,1,0,0,0,0,0,blue,red
+37,China,Asia,NE,9561,1008,Chinese,Marxist,0,0,2,red,,,gold,,,,red,0,0,0,0,5,0,0,0,0,0,red,red
+38,Colombia,S.America,NW,1139,28,Spanish,Catholic,0,3,3,red,,blue,gold,,,,gold,0,0,0,0,0,0,0,0,0,0,gold,red
+39,Comorro-Islands,Africa,SE,2,0,French,Muslim,0,0,2,,green,,,white,,,green,0,0,0,0,4,1,0,0,0,0,green,green
+40,Congo,Africa,SE,342,2,Others,Ethnic,0,0,3,red,green,,gold,,,,red,0,0,0,0,1,0,0,1,1,0,red,red
+41,Cook-Islands,Oceania,SW,0,0,English,Other Christian,0,0,4,red,,blue,,white,,,blue,1,1,1,1,15,0,0,0,0,0,white,blue
+42,Costa-Rica,N.America,NW,51,2,Spanish,Catholic,0,5,3,red,,blue,,white,,,blue,0,0,0,0,0,0,0,0,0,0,blue,blue
+43,Cuba,N.America,NW,115,10,Spanish,Marxist,0,5,3,red,,blue,,white,,,blue,0,0,0,0,1,0,1,0,0,0,blue,blue
+44,Cyprus,Europe,NE,9,1,Other Indo-European,Other Christian,0,0,3,,green,,gold,white,,,white,0,0,0,0,0,0,0,1,1,0,white,white
+45,Czechoslovakia,Europe,NE,128,15,Slavic,Marxist,0,0,3,red,,blue,,white,,,white,0,0,0,0,0,0,1,0,0,0,white,red
+46,Denmark,Europe,NE,43,5,Other Indo-European,Other Christian,0,0,2,red,,,,white,,,red,0,1,0,0,0,0,0,0,0,0,red,red
+47,Djibouti,Africa,NE,22,0,French,Muslim,0,0,4,red,green,blue,,white,,,blue,0,0,0,0,1,0,1,0,0,0,white,green
+48,Dominica,N.America,NW,0,0,English,Other Christian,0,0,6,red,green,blue,gold,white,black,,green,1,0,0,0,10,0,0,0,1,0,green,green
+49,Dominican-Republic,N.America,NW,49,6,Spanish,Catholic,0,0,3,red,,blue,,white,,,blue,0,1,0,0,0,0,0,0,0,0,blue,blue
+50,Ecuador,S.America,SW,284,8,Spanish,Catholic,0,3,3,red,,blue,gold,,,,gold,0,0,0,0,0,0,0,0,0,0,gold,red
+51,Egypt,Africa,NE,1001,47,Arabic,Muslim,0,3,4,red,,,gold,white,black,,black,0,0,0,0,0,0,0,0,1,1,red,black
+52,El-Salvador,N.America,NW,21,5,Spanish,Catholic,0,3,2,,,blue,,white,,,blue,0,0,0,0,0,0,0,0,0,0,blue,blue
+53,Equatorial-Guinea,Africa,NE,28,0,Others,Ethnic,0,3,4,red,green,blue,,white,,,green,0,0,0,0,0,0,1,0,0,0,green,red
+54,Ethiopia,Africa,NE,1222,31,Others,Other Christian,0,3,3,red,green,,gold,,,,green,0,0,0,0,0,0,0,0,0,0,green,red
+55,Faeroes,Europe,NW,1,0,Other Indo-European,Other Christian,0,0,3,red,,blue,,white,,,white,0,1,0,0,0,0,0,0,0,0,white,white
+56,Falklands-Malvinas,S.America,SW,12,0,English,Other Christian,0,0,6,red,green,blue,gold,white,,,blue,1,1,1,1,0,0,0,1,1,1,white,blue
+57,Fiji,Oceania,SE,18,1,English,Other Christian,0,0,7,red,green,blue,gold,white,,orange,blue,0,2,1,1,0,0,0,1,1,0,white,blue
+58,Finland,Europe,NE,337,5,Japanese/Turkish/Finnish/Magyar,Other Christian,0,0,2,,,blue,,white,,,white,0,1,0,0,0,0,0,0,0,0,white,white
+59,France,Europe,NE,547,54,French,Catholic,3,0,3,red,,blue,,white,,,white,0,0,0,0,0,0,0,0,0,0,blue,red
+60,French-Guiana,S.America,NW,91,0,French,Catholic,3,0,3,red,,blue,,white,,,white,0,0,0,0,0,0,0,0,0,0,blue,red
+61,French-Polynesia,Oceania,SW,4,0,French,Catholic,0,3,5,red,,blue,gold,white,black,,red,1,0,0,0,1,0,0,1,0,0,red,red
+62,Gabon,Africa,SE,268,1,Others,Ethnic,0,3,3,,green,blue,gold,,,,green,0,0,0,0,0,0,0,0,0,0,green,blue
+63,Gambia,Africa,NW,10,1,English,Ethnic,0,5,4,red,green,blue,,white,,,red,0,0,0,0,0,0,0,0,0,0,red,green
+64,Germany-DDR,Europe,NE,108,17,German,Marxist,0,3,3,red,,,gold,,black,,gold,0,0,0,0,0,0,0,1,0,0,black,gold
+65,Germany-FRG,Europe,NE,249,61,German,Other Christian,0,3,3,red,,,gold,,black,,black,0,0,0,0,0,0,0,0,0,0,black,gold
+66,Ghana,Africa,NW,239,14,English,Ethnic,0,3,4,red,green,,gold,,black,,red,0,0,0,0,1,0,0,0,0,0,red,green
+67,Gibraltar,Europe,NW,0,0,English,Other Christian,0,1,3,red,,,gold,white,,,white,0,0,0,0,0,0,0,1,0,0,white,red
+68,Greece,Europe,NE,132,10,Other Indo-European,Other Christian,0,9,2,,,blue,,white,,,blue,0,1,0,1,0,0,0,0,0,0,blue,blue
+69,Greenland,N.America,NW,2176,0,Other Indo-European,Other Christian,0,0,2,red,,,,white,,,white,1,0,0,0,0,0,0,0,0,0,white,red
+70,Grenada,N.America,NW,0,0,English,Other Christian,0,0,3,red,green,,gold,,,,gold,1,0,0,0,7,0,1,0,1,0,red,red
+71,Guam,Oceania,NE,0,0,English,Other Christian,0,0,7,red,green,blue,gold,white,,orange,blue,0,0,0,0,0,0,0,1,1,1,red,red
+72,Guatemala,N.America,NW,109,8,Spanish,Catholic,3,0,2,,,blue,,white,,,blue,0,0,0,0,0,0,0,0,0,0,blue,blue
+73,Guinea,Africa,NW,246,6,French,Muslim,3,0,3,red,green,,gold,,,,gold,0,0,0,0,0,0,0,0,0,0,red,green
+74,Guinea-Bissau,Africa,NW,36,1,Other Indo-European,Ethnic,1,2,4,red,green,,gold,,black,,gold,0,0,0,0,1,0,0,0,0,0,red,green
+75,Guyana,S.America,NW,215,1,English,Hindu,0,0,5,red,green,,gold,white,black,,green,0,0,0,0,0,0,1,0,0,0,black,green
+76,Haiti,N.America,NW,28,6,French,Catholic,2,0,2,red,,,,,black,,black,0,0,0,0,0,0,0,0,0,0,black,red
+77,Honduras,N.America,NW,112,4,Spanish,Catholic,0,3,2,,,blue,,white,,,blue,0,0,0,0,5,0,0,0,0,0,blue,blue
+78,Hong-Kong,Asia,NE,1,5,Chinese,Buddhist,0,0,6,red,green,blue,gold,white,,orange,blue,1,1,1,1,0,0,0,1,1,1,white,blue
+79,Hungary,Europe,NE,93,11,Japanese/Turkish/Finnish/Magyar,Marxist,0,3,3,red,green,,,white,,,red,0,0,0,0,0,0,0,0,0,0,red,green
+80,Iceland,Europe,NW,103,0,Other Indo-European,Other Christian,0,0,3,red,,blue,,white,,,blue,0,1,0,0,0,0,0,0,0,0,blue,blue
+81,India,Asia,NE,3268,684,Other Indo-European,Hindu,0,3,4,,green,blue,,white,,orange,orange,1,0,0,0,0,0,0,1,0,0,orange,green
+82,Indonesia,Oceania,SE,1904,157,Others,Muslim,0,2,2,red,,,,white,,,red,0,0,0,0,0,0,0,0,0,0,red,white
+83,Iran,Asia,NE,1648,39,Other Indo-European,Muslim,0,3,3,red,green,,,white,,,red,0,0,0,0,0,0,0,1,0,1,green,red
+84,Iraq,Asia,NE,435,14,Arabic,Muslim,0,3,4,red,green,,,white,black,,red,0,0,0,0,3,0,0,0,0,0,red,black
+85,Ireland,Europe,NW,70,3,English,Catholic,3,0,3,,green,,,white,,orange,white,0,0,0,0,0,0,0,0,0,0,green,orange
+86,Israel,Asia,NE,21,4,Others,Others,0,2,2,,,blue,,white,,,white,0,0,0,0,1,0,0,0,0,0,blue,blue
+87,Italy,Europe,NE,301,57,Other Indo-European,Catholic,3,0,3,red,green,,,white,,,white,0,0,0,0,0,0,0,0,0,0,green,red
+88,Ivory-Coast,Africa,NW,323,7,French,Ethnic,3,0,3,red,green,,,white,,,white,0,0,0,0,0,0,0,0,0,0,red,green
+89,Jamaica,N.America,NW,11,2,English,Other Christian,0,0,3,,green,,gold,,black,,green,0,0,1,0,0,0,1,0,0,0,gold,gold
+90,Japan,Asia,NE,372,118,Japanese/Turkish/Finnish/Magyar,Others,0,0,2,red,,,,white,,,white,1,0,0,0,1,0,0,0,0,0,white,white
+91,Jordan,Asia,NE,98,2,Arabic,Muslim,0,3,4,red,green,,,white,black,,black,0,0,0,0,1,0,1,0,0,0,black,green
+92,Kampuchea,Asia,NE,181,6,Others,Buddhist,0,0,2,red,,,gold,,,,red,0,0,0,0,0,0,0,1,0,0,red,red
+93,Kenya,Africa,NE,583,17,Others,Ethnic,0,5,4,red,green,,,white,black,,red,1,0,0,0,0,0,0,1,0,0,black,green
+94,Kiribati,Oceania,NE,0,0,English,Other Christian,0,0,4,red,,blue,gold,white,,,red,0,0,0,0,1,0,0,1,1,0,red,blue
+95,Kuwait,Asia,NE,18,2,Arabic,Muslim,0,3,4,red,green,,,white,black,,green,0,0,0,0,0,0,0,0,0,0,green,red
+96,Laos,Asia,NE,236,3,Others,Marxist,0,3,3,red,,blue,,white,,,red,1,0,0,0,0,0,0,0,0,0,red,red
+97,Lebanon,Asia,NE,10,3,Arabic,Muslim,0,2,4,red,green,,,white,,orange,red,0,0,0,0,0,0,0,0,1,0,red,red
+98,Lesotho,Africa,SE,30,1,Others,Ethnic,2,0,4,red,green,blue,,white,,,blue,0,0,0,0,0,0,0,1,0,0,green,blue
+99,Liberia,Africa,NW,111,1,Others,Ethnic,0,11,3,red,,blue,,white,,,red,0,0,0,1,1,0,0,0,0,0,blue,red
+100,Libya,Africa,NE,1760,3,Arabic,Muslim,0,0,1,,green,,,,,,green,0,0,0,0,0,0,0,0,0,0,green,green
+101,Liechtenstein,Europe,NE,0,0,German,Catholic,0,2,3,red,,blue,gold,,,,red,0,0,0,0,0,0,0,1,0,0,blue,red
+102,Luxembourg,Europe,NE,3,0,German,Catholic,0,3,3,red,,blue,,white,,,red,0,0,0,0,0,0,0,0,0,0,red,blue
+103,Malagasy,Africa,SE,587,9,Others,Other Christian,1,2,3,red,green,,,white,,,red,0,0,0,0,0,0,0,0,0,0,white,green
+104,Malawi,Africa,SE,118,6,Others,Ethnic,0,3,3,red,green,,,,black,,red,0,0,0,0,1,0,0,0,0,0,black,green
+105,Malaysia,Asia,NE,333,13,Others,Muslim,0,14,4,red,,blue,gold,white,,,red,0,0,0,1,1,1,0,0,0,0,blue,white
+106,Maldive-Islands,Asia,NE,0,0,Others,Muslim,0,0,3,red,green,,,white,,,red,0,0,0,0,0,1,0,0,0,0,red,red
+107,Mali,Africa,NW,1240,7,French,Muslim,3,0,3,red,green,,gold,,,,gold,0,0,0,0,0,0,0,0,0,0,green,red
+108,Malta,Europe,NE,0,0,Others,Catholic,2,0,3,red,,,,white,black,,red,0,1,0,0,0,0,0,1,0,0,white,red
+109,Marianas,Oceania,NE,0,0,Others,Other Christian,0,0,3,,,blue,,white,,,blue,0,0,0,0,1,0,0,1,0,0,blue,blue
+110,Mauritania,Africa,NW,1031,2,Arabic,Muslim,0,0,2,,green,,gold,,,,green,0,0,0,0,1,1,0,0,0,0,green,green
+111,Mauritius,Africa,SE,2,1,English,Hindu,0,4,4,red,green,blue,gold,,,,red,0,0,0,0,0,0,0,0,0,0,red,green
+112,Mexico,N.America,NW,1973,77,Spanish,Catholic,3,0,4,red,green,,,white,,orange,green,0,0,0,0,0,0,0,0,1,0,green,red
+113,Micronesia,Oceania,NE,1,0,Others,Other Christian,0,0,2,,,blue,,white,,,blue,0,0,0,0,4,0,0,0,0,0,blue,blue
+114,Monaco,Europe,NE,0,0,French,Catholic,0,2,2,red,,,,white,,,red,0,0,0,0,0,0,0,0,0,0,red,white
+115,Mongolia,Asia,NE,1566,2,Others,Marxist,3,0,3,red,,blue,gold,,,,red,2,0,0,0,1,1,1,1,0,0,red,red
+116,Montserrat,N.America,NW,0,0,English,Other Christian,0,0,7,red,green,blue,gold,white,black,,blue,0,2,1,1,0,0,0,1,1,0,white,blue
+117,Morocco,Africa,NW,447,20,Arabic,Muslim,0,0,2,red,green,,,,,,red,0,0,0,0,1,0,0,0,0,0,red,red
+118,Mozambique,Africa,SE,783,12,Others,Ethnic,0,5,5,red,green,,gold,white,black,,gold,0,0,0,0,1,0,1,1,0,0,green,gold
+119,Nauru,Oceania,SE,0,0,Others,Other Christian,0,3,3,,,blue,gold,white,,,blue,0,0,0,0,1,0,0,0,0,0,blue,blue
+120,Nepal,Asia,NE,140,16,Others,Hindu,0,0,3,,,blue,,white,,orange,brown,0,0,0,0,2,1,0,0,0,0,blue,blue
+121,Netherlands,Europe,NE,41,14,Other Indo-European,Other Christian,0,3,3,red,,blue,,white,,,red,0,0,0,0,0,0,0,0,0,0,red,blue
+122,Netherlands-Antilles,N.America,NW,0,0,Other Indo-European,Other Christian,0,1,3,red,,blue,,white,,,white,0,0,0,0,6,0,0,0,0,0,white,white
+123,New-Zealand,Oceania,SE,268,2,English,Other Christian,0,0,3,red,,blue,,white,,,blue,0,1,1,1,4,0,0,0,0,0,white,blue
+124,Nicaragua,N.America,NW,128,3,Spanish,Catholic,0,3,2,,,blue,,white,,,blue,0,0,0,0,0,0,0,0,0,0,blue,blue
+125,Niger,Africa,NE,1267,5,French,Muslim,0,3,3,,green,,,white,,orange,orange,1,0,0,0,0,0,0,0,0,0,orange,green
+126,Nigeria,Africa,NE,925,56,Others,Muslim,3,0,2,,green,,,white,,,green,0,0,0,0,0,0,0,0,0,0,green,green
+127,Niue,Oceania,SW,0,0,English,Other Christian,0,0,4,red,,blue,gold,white,,,gold,1,1,1,1,5,0,0,0,0,0,white,gold
+128,North-Korea,Asia,NE,121,18,Others,Marxist,0,5,3,red,,blue,,white,,,blue,1,0,0,0,1,0,0,0,0,0,blue,blue
+129,North-Yemen,Asia,NE,195,9,Arabic,Muslim,0,3,4,red,green,,,white,black,,red,0,0,0,0,1,0,0,0,0,0,red,black
+130,Norway,Europe,NE,324,4,Other Indo-European,Other Christian,0,0,3,red,,blue,,white,,,red,0,1,0,0,0,0,0,0,0,0,red,red
+131,Oman,Asia,NE,212,1,Arabic,Muslim,0,2,3,red,green,,,white,,,red,0,0,0,0,0,0,0,1,0,0,red,green
+132,Pakistan,Asia,NE,804,84,Other Indo-European,Muslim,1,0,2,,green,,,white,,,green,0,0,0,0,1,1,0,0,0,0,white,green
+133,Panama,S.America,NW,76,2,Spanish,Catholic,0,0,3,red,,blue,,white,,,red,0,0,0,4,2,0,0,0,0,0,white,white
+134,Papua-New-Guinea,Oceania,SE,463,3,English,Ethnic,0,0,4,red,,,gold,white,black,,black,0,0,0,0,5,0,1,0,1,0,red,black
+135,Parguay,S.America,SW,407,3,Spanish,Catholic,0,3,6,red,green,blue,gold,white,black,,red,1,0,0,0,1,0,0,1,1,1,red,blue
+136,Peru,S.America,SW,1285,14,Spanish,Catholic,3,0,2,red,,,,white,,,red,0,0,0,0,0,0,0,0,0,0,red,red
+137,Philippines,Oceania,NE,300,48,Others,Catholic,0,0,4,red,,blue,gold,white,,,blue,0,0,0,0,4,0,1,0,0,0,blue,red
+138,Poland,Europe,NE,313,36,Slavic,Marxist,0,2,2,red,,,,white,,,white,0,0,0,0,0,0,0,0,0,0,white,red
+139,Portugal,Europe,NW,92,10,Other Indo-European,Catholic,0,0,5,red,green,blue,gold,white,,,red,1,0,0,0,0,0,0,1,0,0,green,red
+140,Puerto-Rico,N.America,NW,9,3,Spanish,Catholic,0,5,3,red,,blue,,white,,,red,0,0,0,0,1,0,1,0,0,0,red,red
+141,Qatar,Asia,NE,11,0,Arabic,Muslim,0,0,2,,,,,white,,orange,brown,0,0,0,0,0,0,0,0,0,0,white,brown
+142,Romania,Europe,NE,237,22,Other Indo-European,Marxist,3,0,7,red,green,blue,gold,white,,orange,red,0,0,0,0,2,0,0,1,1,1,blue,red
+143,Rwanda,Africa,SE,26,5,Others,Ethnic,3,0,4,red,green,,gold,,black,,red,0,0,0,0,0,0,0,0,0,1,red,green
+144,San-Marino,Europe,NE,0,0,Other Indo-European,Catholic,0,2,2,,,blue,,white,,,white,0,0,0,0,0,0,0,0,0,0,white,blue
+145,Sao-Tome,Africa,NE,0,0,Other Indo-European,Catholic,0,3,4,red,green,,gold,,black,,green,0,0,0,0,2,0,1,0,0,0,green,green
+146,Saudi-Arabia,Asia,NE,2150,9,Arabic,Muslim,0,0,2,,green,,,white,,,green,0,0,0,0,0,0,0,1,0,1,green,green
+147,Senegal,Africa,NW,196,6,French,Muslim,3,0,3,red,green,,gold,,,,green,0,0,0,0,1,0,0,0,0,0,green,red
+148,Seychelles,Africa,SE,0,0,English,Other Christian,0,0,3,red,green,,,white,,,red,0,0,0,0,0,0,0,0,0,0,red,green
+149,Sierra-Leone,Africa,NW,72,3,English,Ethnic,0,3,3,,green,blue,,white,,,green,0,0,0,0,0,0,0,0,0,0,green,blue
+150,Singapore,Asia,NE,1,3,Chinese,Buddhist,0,2,2,red,,,,white,,,white,0,0,0,0,5,1,0,0,0,0,red,white
+151,Soloman-Islands,Oceania,SE,30,0,English,Other Christian,0,0,4,,green,blue,gold,white,,,green,0,0,0,0,5,0,1,0,0,0,blue,green
+152,Somalia,Africa,NE,637,5,Others,Muslim,0,0,2,,,blue,,white,,,blue,0,0,0,0,1,0,0,0,0,0,blue,blue
+153,South-Africa,Africa,SE,1221,29,Other Indo-European,Other Christian,0,3,5,red,green,blue,,white,,orange,orange,0,1,1,0,0,0,0,0,0,0,orange,blue
+154,South-Korea,Asia,NE,99,39,Others,Others,0,0,4,red,,blue,,white,black,,white,1,0,0,0,0,0,0,1,0,0,white,white
+155,South-Yemen,Asia,NE,288,2,Arabic,Muslim,0,3,4,red,,blue,,white,black,,red,0,0,0,0,1,0,1,0,0,0,red,black
+156,Spain,Europe,NW,505,38,Spanish,Catholic,0,3,2,red,,,gold,,,,red,0,0,0,0,0,0,0,0,0,0,red,red
+157,Sri-Lanka,Asia,NE,66,15,Others,Buddhist,2,0,4,,green,,gold,,,orange,gold,0,0,0,0,0,0,0,1,1,0,gold,gold
+158,St-Helena,Africa,SW,0,0,English,Other Christian,0,0,7,red,green,blue,gold,white,,orange,blue,0,1,1,1,0,0,0,1,0,0,white,blue
+159,St-Kitts-Nevis,N.America,NW,0,0,English,Other Christian,0,0,5,red,green,,gold,white,black,,green,0,0,0,0,2,0,1,0,0,0,green,red
+160,St-Lucia,N.America,NW,0,0,English,Other Christian,0,0,4,,,blue,gold,white,black,,blue,0,0,0,0,0,0,1,0,0,0,blue,blue
+161,St-Vincent,N.America,NW,0,0,English,Other Christian,5,0,4,,green,blue,gold,white,,,green,0,0,0,0,0,0,0,1,1,1,blue,green
+162,Sudan,Africa,NE,2506,20,Arabic,Muslim,0,3,4,red,green,,,white,black,,red,0,0,0,0,0,0,1,0,0,0,red,black
+163,Surinam,S.America,NW,63,0,Other Indo-European,Other Christian,0,5,4,red,green,,gold,white,,,red,0,0,0,0,1,0,0,0,0,0,green,green
+164,Swaziland,Africa,SE,17,1,Others,Other Christian,0,5,7,red,,blue,gold,white,black,orange,blue,0,0,0,0,0,0,0,1,0,0,blue,blue
+165,Sweden,Europe,NE,450,8,Other Indo-European,Other Christian,0,0,2,,,blue,gold,,,,blue,0,1,0,0,0,0,0,0,0,0,blue,blue
+166,Switzerland,Europe,NE,41,6,German,Other Christian,0,0,2,red,,,,white,,,red,0,1,0,0,0,0,0,0,0,0,red,red
+167,Syria,Asia,NE,185,10,Arabic,Muslim,0,3,4,red,green,,,white,black,,red,0,0,0,0,2,0,0,0,0,0,red,black
+168,Taiwan,Asia,NE,36,18,Chinese,Buddhist,0,0,3,red,,blue,,white,,,red,1,0,0,1,1,0,0,0,0,0,blue,red
+169,Tanzania,Africa,SE,945,18,Others,Ethnic,0,0,4,,green,blue,gold,,black,,green,0,0,0,0,0,0,1,0,0,0,green,blue
+170,Thailand,Asia,NE,514,49,Others,Buddhist,0,5,3,red,,blue,,white,,,red,0,0,0,0,0,0,0,0,0,0,red,red
+171,Togo,Africa,NE,57,2,French,Others,0,5,4,red,green,,gold,white,,,green,0,0,0,1,1,0,0,0,0,0,red,green
+172,Tonga,Oceania,SE,1,0,Others,Other Christian,0,0,2,red,,,,white,,,red,0,1,0,1,0,0,0,0,0,0,white,red
+173,Trinidad-Tobago,S.America,NW,5,1,English,Other Christian,0,0,3,red,,,,white,black,,red,0,0,0,0,0,0,1,0,0,0,white,white
+174,Tunisia,Africa,NE,164,7,Arabic,Muslim,0,0,2,red,,,,white,,,red,1,0,0,0,1,1,0,0,0,0,red,red
+175,Turkey,Asia,NE,781,45,Japanese/Turkish/Finnish/Magyar,Muslim,0,0,2,red,,,,white,,,red,0,0,0,0,1,1,0,0,0,0,red,red
+176,Turks-Cocos-Islands,N.America,NW,0,0,English,Other Christian,0,0,6,red,green,blue,gold,white,,orange,blue,0,1,1,1,0,0,0,1,1,0,white,blue
+177,Tuvalu,Oceania,SE,0,0,English,Other Christian,0,0,5,red,,blue,gold,white,,,blue,0,1,1,1,9,0,0,0,0,0,white,blue
+178,UAE,Asia,NE,84,1,Arabic,Muslim,1,3,4,red,green,,,white,black,,green,0,0,0,0,0,0,0,0,0,0,red,black
+179,Uganda,Africa,NE,236,13,Others,Ethnic,0,6,5,red,,,gold,white,black,,gold,1,0,0,0,0,0,0,0,1,0,black,red
+180,UK,Europe,NW,245,56,English,Other Christian,0,0,3,red,,blue,,white,,,red,0,1,1,0,0,0,0,0,0,0,white,red
+181,Uruguay,S.America,SW,178,3,Spanish,Catholic,0,9,3,,,blue,gold,white,,,white,0,0,0,1,1,0,0,0,0,0,white,white
+182,US-Virgin-Isles,N.America,NW,0,0,English,Other Christian,0,0,6,red,green,blue,gold,white,,,white,0,0,0,0,0,0,0,1,1,1,white,white
+183,USA,N.America,NW,9363,231,English,Other Christian,0,13,3,red,,blue,,white,,,white,0,0,0,1,50,0,0,0,0,0,blue,red
+184,USSR,Asia,NE,22402,274,Slavic,Marxist,0,0,2,red,,,gold,,,,red,0,0,0,0,1,0,0,1,0,0,red,red
+185,Vanuatu,Oceania,SE,15,0,Other Indo-European,Other Christian,0,0,4,red,green,,gold,,black,,red,0,0,0,0,0,0,1,0,1,0,black,green
+186,Vatican-City,Europe,NE,0,0,Other Indo-European,Catholic,2,0,4,red,,,gold,white,black,,gold,0,0,0,0,0,0,0,1,0,0,gold,white
+187,Venezuela,S.America,NW,912,15,Spanish,Catholic,0,3,7,red,green,blue,gold,white,black,orange,red,0,0,0,0,7,0,0,1,1,0,gold,red
+188,Vietnam,Asia,NE,333,60,Others,Marxist,0,0,2,red,,,gold,,,,red,0,0,0,0,1,0,0,0,0,0,red,red
+189,Western-Samoa,Oceania,SW,3,0,English,Other Christian,0,0,3,red,,blue,,white,,,red,0,0,0,1,5,0,0,0,0,0,blue,red
+190,Yugoslavia,Europe,NE,256,22,Other Indo-European,Marxist,0,3,4,red,,blue,gold,white,,,red,0,0,0,0,1,0,0,0,0,0,blue,red
+191,Zaire,Africa,SE,905,28,Others,Ethnic,0,0,4,red,green,,gold,,,orange,green,1,0,0,0,0,0,0,1,1,0,green,green
+192,Zambia,Africa,SE,753,6,Others,Ethnic,3,0,4,red,green,,,,black,orange,green,0,0,0,0,0,0,0,0,1,0,green,brown
+193,Zimbabwe,Africa,SE,391,8,Others,Ethnic,0,7,5,red,green,,gold,white,black,,green,0,0,0,0,1,0,1,1,1,0,green,green
