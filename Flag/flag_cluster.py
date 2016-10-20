@@ -41,9 +41,10 @@ fbr = [flag[216:266] for flag in flags]
 #     np.save("../Flag_vectors/flag_6B_50_"+str(i)+"_br.npy",reduced_matrix)
 
 # fiddle with the number of clusters to get an optimal number
-k_means = KMeans(n_clusters=2)
+k_means = KMeans(n_clusters=4)
 
 for i in range(2,11):
+    print "Dimensionality = "+str(i)
     comp = []
     fnames = np.load("../Flag_vectors/flag_6B_50_"+str(i)+"_name.npy")
     flands = np.load("../Flag_vectors/flag_6B_50_"+str(i)+"_land.npy")
@@ -62,6 +63,17 @@ for i in range(2,11):
         tuplez.extend(fbrs[j])
         # print tuplez
         comp.append(tuplez)
+
+# Elbow test
+    # inertia = []
+    # for i in xrange(2,15,1):
+    #     model = KMeans(n_clusters=i)
+    #     model.fit(comp)
+    #     inertia.append(model.inertia_)
+    # plt.plot(range(2,15,1),inertia)
+    # plt.xlabel("Number of Clusters")
+    # plt.ylabel("Inertia")
+    # plt.show()
 
     tsne_model = TSNE(n_components=2, verbose=2, random_state=0)
     reduced_comp = tsne_model.fit_transform(comp)
