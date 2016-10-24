@@ -96,13 +96,13 @@ for i in range(2,11):
     # elbow_test(comp,i)
 
     # Silhouette Analysis
-    if i==10:
-        silhouette_analysis(comp)
+    # if i==10:
+    #     silhouette_analysis(comp)
 
-    # tsne_model = TSNE(n_components=2, verbose=2, random_state=0)
-    # reduced_comp = tsne_model.fit_transform(comp)
-    # k_means.fit(reduced_comp)
-    # cluster_labels = k_means.labels_
+    tsne_model = TSNE(n_components=2, verbose=2, random_state=0)
+    reduced_comp = tsne_model.fit_transform(comp)
+    k_means.fit(reduced_comp)
+    cluster_labels = k_means.labels_
     # print len(cluster_labels)
     # print len(category)
     # for k in range(0,len(animals)):
@@ -114,9 +114,9 @@ for i in range(2,11):
     #         print str(animals[ani]) +" correctly belongs to "+ str(category[ani])
     #     else:
     #         print str(animals[ani]) +" incorrectly belongs to "+ str(category[ani])
-    # for i in set(k_means.labels_):
-    #     index = k_means.labels_ == i
-    #     plt.plot(reduced_comp[index,0], reduced_comp[index,1], 'o')
-    # for k in range(0,len(animals)):
-    #     plt.annotate(animals[k],(reduced_comp[k,0],reduced_comp[k,1]))
-    # plt.show()
+    for i in set(k_means.labels_):
+        index = k_means.labels_ == i
+        plt.plot(reduced_comp[index,0], reduced_comp[index,1], 'o')
+    for k in range(0,len(animals)):
+        plt.annotate(animals[k],(reduced_comp[k,0],reduced_comp[k,1]))
+    plt.show()

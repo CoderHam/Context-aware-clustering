@@ -12,6 +12,7 @@ hemant@hemant-HP:~/Desktop/DeeperNLP$ python zoo_cluster.py
 [t-SNE] Iteration 150: error = 1.7794362, gradient norm = 0.0009469
 [t-SNE] Iteration 150: gradient norm 0.000947. Finished.
 [t-SNE] Error after 150 iterations: 1.779436
+
 [t-SNE] Computing pairwise distances...
 [t-SNE] Computing 91 nearest neighbors...
 [t-SNE] Computed conditional probabilities for sample 97 / 97
@@ -24,6 +25,7 @@ hemant@hemant-HP:~/Desktop/DeeperNLP$ python zoo_cluster.py
 [t-SNE] Iteration 125: error = 1.7761642, gradient norm = 0.0009612
 [t-SNE] Iteration 125: gradient norm 0.000961. Finished.
 [t-SNE] Error after 125 iterations: 1.776164
+
 [t-SNE] Computing pairwise distances...
 [t-SNE] Computing 91 nearest neighbors...
 [t-SNE] Computed conditional probabilities for sample 97 / 97
@@ -45,6 +47,7 @@ hemant@hemant-HP:~/Desktop/DeeperNLP$ python zoo_cluster.py
 [t-SNE] Iteration 350: error = 1.2000567, gradient norm = 0.0011830
 [t-SNE] Iteration 350: error difference 0.000000. Finished.
 [t-SNE] Error after 350 iterations: 1.200057
+
 [t-SNE] Computing pairwise distances...
 [t-SNE] Computing 91 nearest neighbors...
 [t-SNE] Computed conditional probabilities for sample 97 / 97
@@ -68,6 +71,7 @@ hemant@hemant-HP:~/Desktop/DeeperNLP$ python zoo_cluster.py
 [t-SNE] Iteration 375: error difference 0.000000. Finished.
 [t-SNE] Error after 375 iterations: 1.482583
 [t-SNE] Computing pairwise distances...
+
 [t-SNE] Computing 91 nearest neighbors...
 [t-SNE] Computed conditional probabilities for sample 97 / 97
 [t-SNE] Mean sigma: 515.655529
@@ -79,6 +83,7 @@ hemant@hemant-HP:~/Desktop/DeeperNLP$ python zoo_cluster.py
 [t-SNE] Iteration 125: error = 1.5632081, gradient norm = 0.0009781
 [t-SNE] Iteration 125: gradient norm 0.000978. Finished.
 [t-SNE] Error after 125 iterations: 1.563208
+
 [t-SNE] Computing pairwise distances...
 [t-SNE] Computing 91 nearest neighbors...
 [t-SNE] Computed conditional probabilities for sample 97 / 97
@@ -100,6 +105,7 @@ hemant@hemant-HP:~/Desktop/DeeperNLP$ python zoo_cluster.py
 [t-SNE] Iteration 350: error = 1.4953716, gradient norm = 0.0011306
 [t-SNE] Iteration 350: error difference 0.000000. Finished.
 [t-SNE] Error after 350 iterations: 1.495372
+
 [t-SNE] Computing pairwise distances...
 [t-SNE] Computing 91 nearest neighbors...
 [t-SNE] Computed conditional probabilities for sample 97 / 97
@@ -112,6 +118,7 @@ hemant@hemant-HP:~/Desktop/DeeperNLP$ python zoo_cluster.py
 [t-SNE] Iteration 125: error = 1.5474725, gradient norm = 0.0009142
 [t-SNE] Iteration 125: gradient norm 0.000914. Finished.
 [t-SNE] Error after 125 iterations: 1.547472
+
 [t-SNE] Computing pairwise distances...
 [t-SNE] Computing 91 nearest neighbors...
 [t-SNE] Computed conditional probabilities for sample 97 / 97
@@ -124,6 +131,7 @@ hemant@hemant-HP:~/Desktop/DeeperNLP$ python zoo_cluster.py
 [t-SNE] Iteration 125: error = 1.7373738, gradient norm = 0.0009535
 [t-SNE] Iteration 125: gradient norm 0.000954. Finished.
 [t-SNE] Error after 125 iterations: 1.737374
+
 [t-SNE] Computing pairwise distances...
 [t-SNE] Computing 91 nearest neighbors...
 [t-SNE] Computed conditional probabilities for sample 97 / 97
@@ -136,4 +144,3 @@ hemant@hemant-HP:~/Desktop/DeeperNLP$ python zoo_cluster.py
 [t-SNE] Iteration 125: error = 1.6465729, gradient norm = 0.0009146
 [t-SNE] Iteration 125: gradient norm 0.000915. Finished.
 [t-SNE] Error after 125 iterations: 1.646573
-

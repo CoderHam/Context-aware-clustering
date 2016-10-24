@@ -138,9 +138,11 @@ for i in range(2,11):
     k_means.fit(reduced_comp)
     cluster_labels = k_means.labels_
 
-    for i in set(k_means.labels_):
-        index = k_means.labels_ == i
+    for j in set(k_means.labels_):
+        index = k_means.labels_ == j
         plt.plot(reduced_comp[index,0], reduced_comp[index,1], 'o')
-    for k in range(0,len(flag_label)):
-        plt.annotate(flag_label[k],(reduced_comp[k,0],reduced_comp[k,1]))
-    plt.show()
+    # # for k in range(0,len(flag_label)):
+    # #     plt.annotate(flag_label[k],(reduced_comp[k,0],reduced_comp[k,1]))
+    # plt.show()
+    plt.savefig('../Flag_clusters/flag_50d_'+str(i)+'_cluster.png')
+    plt.clf()
